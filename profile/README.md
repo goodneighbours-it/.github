@@ -23,8 +23,8 @@ Il nostro vero punto di forza è la contaminazione di idee. Il team è composto 
 | Profilo | Ruolo & Competenze | Status Accademico |
 | :--- | :--- | :--- |
 | **[Paolo Iacovissi]** | Software Architect & Cyber Security <br>| 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione Web|
-| **[Filippo Maria Carletti]** | Sviluppatore Full-Stack <br>| 📚 Studente di Ingegneria del Software e Progettazione Web |
-| **[Yari Antonio Bellardini]** | Sviluppatore Full-Stack <br> | 📚 Studente di Ingegneria del Software e Progettazione Web|
+| **[Filippo Maria Carletti]** | Sviluppatore Full-Stack <br>| 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione |
+| **[Yari Antonio Bellardini]** | Sviluppatore Full-Stack <br> | 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione|
 
 > *Crediamo fortemente nella formazione continua: ogni riga di codice che scriviamo per i nostri clienti è frutto di studio, passione e best practice di ingegneria condivise in team.*
 
